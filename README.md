@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @leckx
-- 👀 I’m interested in network and cybersecurity
+- 👀 I’m interested in networking and cybersecurity
 - 🌱 I’m currently learning cybersecurity
 - 💞️ I’m looking for a group to collaborate and to learn from their experience
 - 📫 How to reach me ..
